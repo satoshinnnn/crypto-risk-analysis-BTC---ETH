@@ -1,0 +1,4 @@
+                 Metric BTC Overall ETH Overall BTC Deep Calm BTC Calm BTC Turbulent BTC Stress Turbulent ETH Deep Calm ETH Calm ETH Turbulent ETH Stress Turbulent
+   Mean Absolute Return       1.97%       2.66%         1.22%    1.67%         2.23%                2.63%         1.93%    2.30%         2.91%                3.37%
+Volatility (Annualized)      54.59%      72.24%        33.17%   43.81%        58.60%               70.90%        52.96%   62.30%        78.97%               87.05%
+           Max Drawdown     -76.63%     -79.30%       -32.41%  -49.46%       -74.63%              -76.09%       -43.97%  -55.03%       -73.73%              -78.51%
